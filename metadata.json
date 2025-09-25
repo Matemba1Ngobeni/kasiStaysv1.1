@@ -1,0 +1,5 @@
+{
+  "name": "KasiStays",
+  "description": "A web application for student and township accommodation, featuring role-based dashboards for students, landlords, and service providers.",
+  "requestFramePermissions": []
+}
